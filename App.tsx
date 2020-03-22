@@ -20,7 +20,7 @@ class App extends React.Component {
   render() {
     return(
       <View>
-        <Text>Hello, TypeScript</Text>
+        <Text>Hello, TypeScript?</Text>
       </View>
     );
   }
